@@ -1,6 +1,7 @@
-- 👋 Hi, I’m İrem Sultan Örün
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m İrem Sultan Örün.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me iremsultanorun2@gmail.com
+- 📖 I'm writing a book.
 
 <!---
 iremsultanorun/iremsultanorun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
