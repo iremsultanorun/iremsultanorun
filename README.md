@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/output/snake.svg" alt="Snake animation" />
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Snake animation" />
 
 ###
