@@ -1,10 +1,10 @@
-<h3 align="left">Hi 👋! My name is İrem and I'm a Frontend Developer :)</h3>
+<h3 align="center">Hi 👋! My name is İrem and I'm a Frontend Developer :)</h3>
 
-
-
+###
 
 <div align="center">
 </div>
+
 ###
 
 <div align="center">
