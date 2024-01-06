@@ -7,11 +7,8 @@
 ###
 <div align="center">
 </div>
-
 ###
-
-<img align="left" height="161" src="[https://www.braintreepayments.com/blog/content/images/2016/02/Main-image---Braintree-project.gif](https://camo.githubusercontent.com/982c316b2ab697d570bc8883322de4fb4449ca5be054ab72f28149396bd588c7/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323030302f312a45455f4e583469315965566f775675425364543738772e676966)"  />
-
+<img align="left" height="161" src="[https://www.braintreepayments.com/blog/content/images/2016/02/Main-image---Braintree-project.gif](https://camo.githubusercontent.com/982c316b2ab697d570bc8883322de4fb4449ca5be054ab72f28149396bd588c7/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323030302f312a45455f4e583469315965566f775675425364543738772e676966)" />
 ###
 
 <div align="center">
