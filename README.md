@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif" alt="Snake animation" />
 
 ###
